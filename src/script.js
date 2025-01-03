@@ -1,5 +1,5 @@
 // Fetch and display skills from the JSON file
-fetch("/data/skills.json")
+fetch("./data/skills.json")
     .then((response) => response.json())
     .then((data) => {
         const container = document.getElementById("skills-container");
