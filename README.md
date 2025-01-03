@@ -5,7 +5,7 @@ This is a web-based application designed to help Zombicide players quickly searc
 ## Live Demo
 
 You can access the live application here:  
-[Zombicide Skills App](https://kennethdenson.github.io/zombicide/)
+[Zombicide Skills App](https://kennethdenson.github.io/zombicide-skills-app/)
 
 ## Features
 
