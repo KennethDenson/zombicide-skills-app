@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+#app {
+    max-width: 800px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+#skills-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.skill-card {
+    padding: 15px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.skill-card h2 {
+    margin: 0 0 10px;
+}
+
+.skill-card p {
+    margin: 0;
+    color: #555;
+}
+
+/* Search bar styling */
+#search-bar {
+    display: block; /* Ensures it behaves like a block element */
+    width: 100%; /* Takes up the full width of the container */
+    max-width: 100%; /* Prevents it from exceeding the parent container's width */
+    padding: 12px;
+    font-size: 16px;
+    margin: 10px 0 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px; /* Rounded corners */
+    box-sizing: border-box; /* Prevent padding from affecting width */
+}
+
+/* Responsive styling for mobile */
+@media (max-width: 768px) {
+    #search-bar {
+        font-size: 14px;
+        padding: 10px;
+    }
+}
+#footer {
+    max-width: 800px; /* Same width as the #app */
+    margin: 20px auto 0; /* Centers the footer and adds space above */
+    text-align: center;
+    font-size: 14px;
+    color: #555;
+    padding: 10px; /* Adds spacing inside the footer */
+    border-top: 1px solid #ddd; /* Optional: Separate footer visually */
+    box-sizing: border-box; /* Ensures padding doesn’t affect width */
+}
+
+#footer a {
+    color: #007bff; /* Blue link */
+    text-decoration: none; /* No underline by default */
+}
+
+#footer a:hover {
+    text-decoration: underline; /* Underline on hover */
+}

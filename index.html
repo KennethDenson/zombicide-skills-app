@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zombicide Skills</title>
+    <link rel="stylesheet" href="./src/style.css">
+</head>
+<body>
+    <div id="app">
+        <h1>Zombicide Skills</h1>
+        
+        <!-- Game Filter Dropdown -->
+        <select id="game-filter" aria-label="Filter by game" style="margin-bottom: 20px; padding: 10px; font-size: 16px; width: 100%;">
+            <option value="all">All Games</option>
+            <!-- Add options dynamically -->
+        </select>
+        
+        <!-- Search Bar -->
+        <input
+            type="text"
+            id="search-bar"
+            placeholder="Search for a skill..."
+            style="width: 100%; padding: 12px; font-size: 16px; margin-bottom: 20px; box-sizing: border-box;"
+        />
+        
+        <!-- Skills Container -->
+        <div id="skills-container"></div>
+    </div>
+    
+    <script src="./src/script.js"></script>
+    
+    <footer style="text-align: center; margin-top: 20px; font-size: 14px; color: #555;">
+        <p>
+            Zombicide is a trademark of Guillotine Games. Published by CMON Limited. 
+            This web app is a fan project and is not affiliated with or endorsed by Guillotine Games or CMON.
+        </p>
+        <p>
+            <a href="https://www.google.com/search?q=zombicide+local+game+shop" target="_blank">
+                Find Zombicide at a local game shop
+            </a>
+        </p>
+    </footer>
+</body>
+</html>
