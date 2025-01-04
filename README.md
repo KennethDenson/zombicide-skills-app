@@ -2,7 +2,7 @@
 
 This is a web-based application designed to help Zombicide players quickly search and reference skills available in the game. The app is simple, lightweight, and hosted live using GitHub Pages.
 
-## Live Demo
+## Live Version of the App
 
 You can access the live application here:  
 [Zombicide Skills App](https://kennethdenson.github.io/zombicide-skills-app/)
