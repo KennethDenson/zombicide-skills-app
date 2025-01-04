@@ -17,11 +17,8 @@ fetch("./data/skills.json")
             });
         });
 
-        // Clear existing dropdown options (if any)
-        gameFilter.innerHTML = ""; 
-
-        // Populate the dropdown with unique game names
-        gameNames.forEach((game) => {
+        // Convert the Set to an array, sort it, and then populate the dropdown
+        [...gameNames].sort().forEach((game) => {
             const option = document.createElement("option");
             option.value = game;
             option.textContent = game;
@@ -39,23 +36,26 @@ fetch("./data/skills.json")
                         (skill.name.toLowerCase().includes(searchTerm) ||
                             version.description.toLowerCase().includes(searchTerm))
                 );
-
+        
                 if (relevantVersions.length > 0) {
                     const card = document.createElement("div");
                     card.classList.add("skill-card");
-
+        
                     // Add skill name
                     const title = document.createElement("h2");
                     title.textContent = skill.name;
                     card.appendChild(title);
-
+        
+                    // Sort relevant versions alphabetically by game name
+                    relevantVersions.sort((a, b) => a.game.localeCompare(b.game));
+        
                     // Add skill descriptions for relevant versions
                     relevantVersions.forEach((version) => {
                         const description = document.createElement("p");
                         description.innerHTML = `<strong>${version.game}:</strong> ${version.description}`;
                         card.appendChild(description);
                     });
-
+        
                     container.appendChild(card);
                 }
             });
