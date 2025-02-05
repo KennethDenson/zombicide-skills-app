@@ -29,6 +29,14 @@
             {
                 "game": "Zombicide Dark Side",
                 "description": "The Survivor has an extra Action they may use as they please."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor has 1 extra Action they may use as they please."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "The Survivor has an extra Action he may use as he pleases."
             }
         ]
     },
@@ -42,6 +50,14 @@
             {
                 "game": "Zombicide Dark Side",
                 "description": "The Survivor gets a +1 Damage bonus with the specified type of Action (Combat, Melee or Ranged)."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor gets a +1 Damage bonus with the specified type of Action (Combat, Magic, Melee, or Ranged)."
+            },
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "The Survivor gets a +1 Damage bonus with the specified type of Action (Combat, Melee, or Ranged)."
             }
         ]
     },
@@ -105,6 +121,10 @@
             {
                 "game": "Zombicide Dark Side",
                 "description": "The maximum Range of Ranged weapons the Survivor uses is increased by 1."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "The Survivor's Ranged weapons' maximum Range is increased by 1."
             }
         ]
     },
@@ -134,6 +154,14 @@
             {
                 "game": "Zombicide Dark Side",
                 "description": "When the Survivor spends 1 Action to Move, they can Move 1 or 2 Zones instead of 1. Entering a Zone containing Xenos still ends the Survivor’s Move Action."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor can move through 1 extra Zone each time they perform a Move Action. Entering a Zone containing Zombies still ends the Survivor’s Move Action."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "The Survivor can move through one extra Zone each time he performs a Move Action. This Skill stacks with other effects benefitting Move Actions."
             }
         ]
     },
@@ -173,6 +201,10 @@
             {
                 "game": "Zombicide 2nd Edition",
                 "description": "Roll a die each time the Survivor discards a Molotov to perform a Ranged Action. On a result of ⚃ or more, the Molotov Equipment card may be put in the Survivor’s Backpack instead, for free. The die result may not be altered or re-rolled in any way."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "The Survivor gets two Molotov cards instead of one when he creates a Molotov."
             }
         ]
     },
@@ -206,6 +238,14 @@
             {
                 "game": "Zombicide Dark Side",
                 "description": "The Survivor treats all weapons as if they had the Dual symbol."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor treats all weapons as if they had the Dual symbol."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "The Survivor treats all Melee and Ranged weapons as if they had the Dual symbol."
             }
         ]
     },
@@ -227,6 +267,10 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "When resolving a Melee Action, the Survivor may substitute the Dice number of the Melee weapon(s) they use with the number of Zombies standing in the targeted Zone. Skills affecting the dice value, like +1 die: Melee, still apply."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "When resolving a Melee Action, the Survivor may substitute the Dice number of the Melee weapon(s) they use with the number of Zombies standing in their Zone. Skills aﬀecting the dice value, like +1 Die: Melee, still apply."
             }
         ]
     },
@@ -261,6 +305,14 @@
             {
                 "game": "Zombicide Dark Side",
                 "description": "The Survivor can use this Skill once during each of their Turns. The Survivor spends 1 Action: they Move up to 2 Zones to a Zone containing at least 1 Xeno. They then gain 1 free Action of the specified type (Combat, Melee, or Ranged). Normal Movement rules apply."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor can use this Skill once during each of their Turns. The Survivor spends 1 Action. Then, they Move up to 2 Zones to a Zone containing at least 1 Zombie. They then gain 1 free Action of the specified type (Combat, Magic, Melee, or Ranged). Normal Movement rules apply."
+            },
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "The Survivor can use this Skill once during each of their Turns. The Survivor spends 1 Action. They Move up to 2 Zones to a Zone containing at least 1 Zombie. They then gain 1 free Action of the specified type (Combat, Melee, or Ranged). Normal Movement rules apply."
             }
         ]
     },
@@ -286,6 +338,10 @@
             {
                 "game": "Zombicide Dark Side",
                 "description": "During the Survivor’s Turn, the Survivor may give 1 free Action to another Survivor to use as they please. This Action is used immediately, then the Born leader Survivor resumes their Turn."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "During the Survivor's turn, he may give one free Action to another Survivor, to use as he pleases. This Action must be used during the recipient's next turn or it is lost."
             }
         ]
     },
@@ -358,6 +414,14 @@
             {
                 "game": "Zombicide Dark Side",
                 "description": "The Survivor can use this Skill once during each of their Turns, for free. They move up to 2 Zones to a Zone containing at least 1 Xeno. Normal Movement rules still apply. Entering a Zone containing Xenos still ends the Survivor’s Move Action."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor can use this Skill for free once during each of their Turns. They move up to 2 Zones to a Zone containing at least 1 Zombie. Normal Movement rules still apply. Entering a Zone containing Zombies still ends the Survivor’s Move Action."
+            },
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "The Survivor can use this Skill, for free, once during each of their Turns. They move up to 2 Zones to a Zone containing at least 1 Zombie. Normal Movement rules still apply. Entering a Zone containing Zombies still ends the Survivor’s Move Action."
             }
         ]
     },
@@ -396,6 +460,14 @@
             {
                 "game": "Zombicide Gears and Guns",
                 "description": "The Survivor can use this Skill once per Turn when they reveal an Equipment card they drew. They can ignore and discard that card. Then, draw another Equipment card from the same deck."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor can use this Skill once per Turn when they reveal an Equipment card they drew. They can ignore and discard that card, then draw another Equipment card from the same deck."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "The Survivor can use this Skill once per turn when he reveals an Equipment card he drew. Discard that card and draw another Equipment card."
             }
         ]
     },
@@ -448,6 +520,14 @@
             {
                 "game": "Zombicide Dark Side",
                 "description": "The Survivor gains 1 extra die to roll for subsequent Actions of the specified type (Combat, Melee, or Ranged). The bonus is cumulative and applies until the end of the Survivor’s Turn. The bonus is lost whenever the Survivor performs another kind of Action. EXAMPLE: A Survivor with the Escalation: Ranged Skill spends their first Action performing a Ranged Action with a Pistol (Dice 1). Their second Action is also spent for a Ranged Action, adding an additional die thanks to the Escalation Skill (Dice 2). The third Action is spent for a Move Action: the Escalation bonus is lost."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor gains 1 extra die to roll for subsequent Actions of the specified type (Combat, Magic, Melee, or Ranged). The bonus is cumulative and applies until the end of the Survivor’s Turn. The bonus is lost whenever the Survivor performs another kind of Action. EXAMPLE: A Survivor with the Escalation: Ranged Skill spends their first Action performing a Ranged Action with a Long Bow (Dice 1). Their second Action is also spent for a Ranged Action, adding an additional die thanks to the Escalation Skill (Dice 2). The third Action is spent for a Move Action. The Escalation bonus is lost."
+            },
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "The Survivor gains 1 extra die to roll for consecutive Actions of the specified type (Combat, Melee, or Ranged). The bonus is cumulative and applies until the end of the Survivor’s Turn. The bonus is lost whenever the Survivor performs another kind of Action."
             }
         ]
     },
@@ -500,6 +580,10 @@
             {
                 "game": "Zombicide 2nd Edition",
                 "description": "The Survivor treats all Ranged weapons as if they had the Dual symbol."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "The Survivor treats all Ranged weapons as if they had the Dual symbol."
             }
         ]
     },
@@ -530,6 +614,14 @@
             {
                 "game": "Zombicide 2nd Edition",
                 "description": "The Survivor can carry up to 2 extra Equipment cards. They are placed near their Dashboard and are considered to be in their Backpack."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor can carry up to 2 extra Equipment cards. They are placed near their Dashboard and are considered to be in their Backpack."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "The Survivor can carry one extra Equipment card in reserve."
             }
         ]
     },
@@ -543,6 +635,10 @@
             {
                 "game": "Zombicide Gears and Guns",
                 "description": "The Survivor draws an Equipment card (from the Core Equipment deck only) whenever the last Zombie standing in their Zone is eliminated (by the Survivor themselves, another Survivor, or any game effect). This Skill works in any Zone, even a street Zone, and can be used multiple times in the same Turn. This is NOT considered a Search Action."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "This Skill can be used once per turn. The Survivor gets a free Search Action in the Zone if he has eliminated a Zombie (even outside a building) the very same turn. This Action may only be used to Search and the Survivor can still only Search once per turn."
             }
         ]
     },
@@ -591,6 +687,10 @@
             {
                 "game": "Zombicide Dark Side",
                 "description": "You can use this Skill any time the Survivor is about to take Damage. Negate 1 Damage for each Equipment card you discard from your Survivor’s inventory."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "This Skill can be used any time the Survivor is about to endure Wounds. Negate 1 Wound for each Equipment card they discard from the their inventory."
             }
         ]
     },
@@ -608,6 +708,10 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "The Survivor can use this Skill once during each of their Turns. The Survivor spends 1 Action: they move 2 Zones into a Zone to which they have Line Of Sight. Movement related Skills (like +1 Zone per Move Action or Slippery) are ignored, but Movement penalties (like having Zombies in the starting Zone) apply. Ignore everything in the intervening Zone."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor can use this Skill once during each of their Turns. The Survivor spends 1 Action. They move 2 Zones into a Zone on which they have a Line of Sight. Ignore everything in the intervening Zone, except walls and closed doors. This Skill may be used to jump onto a Battlement Walkway in which the Survivor has a Line of Sight. Movement related Skills (like +1 Zone per Move or Slippery) are ignored, but Movement penalties (like having Zombies in the starting Zone) apply."
             }
         ]
     },
@@ -633,6 +737,14 @@
             {
                 "game": "Zombicide Dark Side",
                 "description": "The Survivor can use this Skill once during each of their Turns, for free. Select a Zone containing at least 1 Xeno and at least 1 Survivor at Range 1 from your Survivor. Both Zones need to share a clear path and a Line of Sight. Choose Survivors in the selected Zone to be dragged to your Survivor’s Zone without penalty. This is not a Move Action. A Survivor may decline the rescue and stay in the selected Zone if their controller chooses."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor can use this Skill for free once during each of their Turns. Select a Zone containing at least 1 Zombie and at least 1 Survivor at Range 1 from the Survivor. Both Zones need to share a Line of Sight. Choose Survivors in the selected Zone to be dragged to the Survivor’s Zone without penalty. This is not a Move Action. A Survivor may decline the rescue and stay in the selected Zone if their controller chooses. NOTE: Contrary to previous Zombicide versions, Lifesaver can now be used without having a clear path between both Zones (to lift Survivors on top of Battlement Walkways, for example…)."
+            },
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "The Survivor can use this Skill, for free, once during each of their Turns. Select a Zone containing at least 1 Zombie and at least 1 Survivor at Range 1 from the Survivor. Both Zones need to share a clear path and a Line of Sight. Choose Survivors in the selected Zone to be dragged to the Survivor’s Zone without penalty. This is not a Move Action. A Survivor may decline the rescue and stay in the selected Zone if their player chooses."
             }
         ]
     },
@@ -679,6 +791,18 @@
             {
                 "game": "Zombicide Dark Side",
                 "description": "For each action the Survivor takes, you may choose to re-roll all dice an additional time. The new result replaces the previous one. This Skill stacks with the effects of Equipment that allows re-rolls."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "For each Action (or Armor roll) the Survivor takes, all the dice may be re-rolled an additional time. The new result replaces the previous one."
+            },
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "For each Action the Survivor takes, the player may choose to re-roll all dice an additional time. The new result replaces the previous one. This Skill stacks with the eﬀects of Equipment that allows re-rolls."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "The Survivor can re-roll once all the dice of each Action he takes. The new result takes the place of the previous one. This Skill stacks with the effects of other Skills (1 re-roll per turn, for example) and Equipment that allows re-rolls."
             }
         ]
     },
@@ -705,6 +829,14 @@
             {
                 "game": "Zombicide Dark Side",
                 "description": "This Skill is used for free during each End Phase. The Survivor, and all other Survivors standing in the same Zone, may restore 1 Armor up to their base level."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "This Skill is used for free during each End Phase. The Survivor and all other Survivors standing in the same Zone may heal 1 Wound (min. 0 Wound). The Survivor earns 1 AP for each Wound healed this way."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "Once per turn, the Survivor can freely remove one Wounded card from a Survivor in the same Zone. He may also heal himself."
             }
         ]
     },
@@ -743,6 +875,14 @@
             {
                 "game": "Zombicide Dark Side",
                 "description": "Use this Skill when assigning hits while resolving an Action of the specified type (Combat, Melee, or Ranged). 1 of these hits can freely eliminate an additional identical Xeno in the same Zone. Only a single additional Xeno can be eliminated per Action when using this Skill. The Survivor gains the experience for the additional Xeno."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "This Skill can be used when assigning hits while resolving an Action of the specified type (Combat, Magic, Melee, or Ranged). 1 of these hits can eliminate an additional identical Zombie in the same Zone. Only a single additional Zombie can be eliminated per Action when using this Skill. The Survivor gains the Adrenaline for the additional Zombie."
+            },
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "This Skill can be used when assigning hits while resolving an Action of the specified type (Combat, Melee, or Ranged). 1 of these hits can freely eliminate an additional identical Zombie in the same Zone. Only a single additional Zombie can be eliminated per Action when using this Skill. The Survivor gains the Adrenaline for the additional Zombie."
             }
         ]
     },
@@ -760,6 +900,14 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "At the end of each Game Round, remove all Wounds the Survivor received. Regeneration doesn’t work if the Survivor has been eliminated."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "During each End Phase, the Survivor’s Health is fully restored to its maximum."
+            },
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "During each End Phase, the Survivor’s Health is fully restored to its maximum. "
             }
         ]
     },
@@ -769,6 +917,14 @@
             {
                 "game": "Zombicide 2nd Edition",
                 "description": "Add 1 to the Damage value of the weapon the Survivor uses for each 6 rolled on an Action of the specified type (Combat, Melee, or Ranged). Game effects that allow re-rolls must be used before determining the Damage bonus granted by this Skill."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "Add 1 to the Damage value of the weapon the Survivor uses for each 6 rolled during an Action of the specified type (Combat, Magic, Melee, or Ranged)."
+            },
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "Add 1 to the Damage value of the weapon the Survivor uses for each 6 rolled during an Action of the specified type (Combat, Melee, or Ranged). Game eﬀects that allow re-rolls must be used before determining the Damage bonus granted by this Skill."
             }
         ]
     },
@@ -811,6 +967,10 @@
             {
                 "game": "Zombicide Dark Side",
                 "description": "The Survivor may Search in any room or corridor Zone. Basic Search rules apply (no Search in Mold or in Zones with Xenos)."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor may Search in any building or street Zone. Normal Search rules apply (no Search in Zones with Zombies, for example)."
             }
         ]
     },
@@ -853,6 +1013,14 @@
             {
                 "game": "Zombicide Dark Side",
                 "description": "The Survivor can use this Skill, for free, once during each of their Turns. Select a Zone at Range 1 from your Survivor. Both Zones need to share a clear path. All Xenos standing in your Survivor’s Zone are pushed to the selected Zone. This is not a Movement."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor can use this Skill for free once during each of their Turns. Select a Zone at Range 1 from the Survivor and within Line of Sight. All Zombies standing in the Survivor’s Zone are pushed to the selected Zone. This is not a Move."
+            },
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "The Survivor can use this Skill, for free, once during each of their Turns. Select a Zone at Range 1 from the Survivor. Both Zones need to share a clear path. All Zombies standing in the Survivor’s Zone are pushed to the selected Zone. This is not Movement."
             }
         ]
     },
@@ -866,6 +1034,14 @@
             {
                 "game": "Zombicide Gears and Guns",
                 "description": "Whenever any Zombies spawn within Range 0-1, the Survivor may immediately perform a free Move Action. The Survivor does not spend extra Actions to perform this free Move Action if Zombies are standing in their Zone. Entering a Zone containing Zombies still ends a Survivor's Move Action. The Survivor may use this Skill once per Zombie card drawn."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "Whenever any Zombie spawns within Range 0-1, the Survivor may immediately perform a free Move Action. The Survivor does not spend extra Actions to perform this free Move Action if Zombies are standing in their Zone. The Survivor may use this Skill once per Zombie card drawn."
+            },
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "Whenever any Zombies spawn within Range 0-1 (and before any extra Activations), the Survivor may immediately perform a free Move Action. The Survivor does not spend extra Actions to perform this free Move Action if Zombies are standing in their Zone. The Survivor may use this Skill once per Zombie card drawn."
             }
         ]
     },
@@ -887,6 +1063,18 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "The Survivor does not spend extra Actions when they perform a Move Action out of a Zone containing Zombies. Entering a Zone containing Zombies still ends the Survivor’s Move Action."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor does not spend extra Actions when they perform a Move Action out of a Zone containing Zombies. The Survivor also ignores Zombies when performing Move Actions (including those allowing them to cross several Zones, like with the Sprint Skill, for example)."
+            },
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "The Survivor does not spend extra Actions when they perform a Move Action out of a Zone containing Zombies. The Survivor also ignores Zombies when performing Move Actions (including those allowing them to cross several Zones, like with the Sprint Skill for example)."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "The Survivor does not spend extra Actions when he performs a Move Action through a Zone where there are Zombies."
             }
         ]
     },
@@ -908,6 +1096,10 @@
             {
                 "game": "Zombicide Dark Side",
                 "description": "The Survivor may freely choose the targets of all their Ranged Actions. Friendly Fire is ignored."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "The Survivor may freely choose the targets of all his Ranged Combat Actions."
             }
         ]
     },
@@ -933,6 +1125,14 @@
             {
                 "game": "Zombicide Dark Side",
                 "description": "The Survivor can use this Skill once during each of their Turns. Spend 1 Move Action with the Survivor: they may move 2 or 3 Zones instead of 1. Entering a Zone containing Xenos still ends the Survivor’s Move Action."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor can use this Skill once during each of their Turns. They spend 1 Move Action and may move 2 or 3 Zones instead of 1. Entering a Zone containing Zombies still ends the Survivor’s Move Action (except if they have the Slippery Skill)."
+            },
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "The Survivor can use this Skill once during each of their Turns. Spend 1 Move Action with the Survivor. They may move 2 or 3 Zones instead of 1. Entering a Zone containing Zombies still ends the Survivor’s Move Action."
             }
         ]
     },
@@ -951,6 +1151,10 @@
             {
                 "game": "Zombicide 2nd Edition",
                 "description": "The Survivor begins the game with 2 Adrenaline Points. \\n\\nNote: Survivors with this Skill cannot be used as Companions."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor begins the game with 2 Adrenaline Points."
             }
         ]
     },
@@ -976,6 +1180,14 @@
             {
                 "game": "Zombicide Dark Side",
                 "description": "The Survivor begins the game with the indicated Equipment. Its card is automatically assigned to them during Setup."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor begins the game with the indicated Equipment. Its card is automatically assigned to them during Setup."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "The Survivor begins the game with the indicated Equipment; its card is automatically assigned to him before the beginning of the game."
             }
         ]
     },
@@ -1035,6 +1247,14 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "The Survivor treats all Melee weapons as if they had the Dual symbol."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor treats all Melee weapons as if they had the Dual symbol."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "The Survivor treats all Melee weapons as if they had the Dual symbol."
             }
         ]
     },
@@ -1060,6 +1280,14 @@
             {
                 "game": "Zombicide Dark Side",
                 "description": "The Survivor’s Turn can be resolved anytime during the Player’s Phase, before or after any other Survivor’s Turn. If several Survivors benefit from this Skill at the same time, players choose their Turn order."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor’s Turn can be resolved any time during the Players Phase, before or after any other Survivor’s Turn. If several Survivors benefit from this Skill, players choose their Turn order."
+            },
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "The Survivor’s turn can be resolved anytime during the Player Phase, before or after any other Survivor’s Turn."
             }
         ]
     },
@@ -1089,6 +1317,10 @@
             {
                 "game": "Zombicide Dark Side",
                 "description": "The Survivor can use this Skill, for free, once during each of their Turns. Select a Zone up to 2 Zones away from the Survivor, and having a clear path to the Survivor (no wall or closed door). No Line of Sight is needed. All Xenos standing in the selected Zone immediately gain an extra Activation: they try to reach the taunting Survivor by any means available. Taunted Xenos ignore all other Survivors. They do not attack them and leave the Zone they are standing in if needed to reach the taunting Survivor."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor can use this Skill for free once during each of their Turns. Select a Zone the Survivor has Line of Sight to. All Zombies standing in the selected Zone immediately gain an extra Activation. They try to reach the taunting Survivor by any means available. Taunted Zombies ignore all other Survivors. They do not attack them and leave the Zone they are standing in if needed to reach the taunting Survivor."
             }
         ]
     },
@@ -1118,6 +1350,14 @@
             {
                 "game": "Zombicide Dark Side",
                 "description": "The Survivor ignores the first Damage they receive during each Attack Step (Xenos’ Phase) and during Friendly Fire (Survivor’s Ranged Action)."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor ignores the first Wound they receive during each Attack Step (Zombies Phase) and during Friendly Fire (Survivor’s Magic or Ranged Action)."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "The Survivor ignores the first Attack he receives from a single Zombie every Zombies' Phase."
             }
         ]
     },
@@ -1192,6 +1432,14 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "The Survivor can use this Skill for free, just after they resolved a Magic, Melee, or Ranged Action resulting in at least 1 Zombie kill. They can then resolve a free Move Action. The Survivor benefits from the effects of the Slippery Skill for this Move Action."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor can use this Skill for free just after they resolve a Magic, Melee, or Ranged Action resulting in a least 1 Zombie being eliminated. They can then resolve a free Move Action. The Survivor does not spend extra Actions to perform this free Move Action if Zombies are standing in their Zone."
+            },
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "The Survivor can use this Skill for free just after they resolve a Melee or Ranged Action resulting in at least 1 Zombie being eliminated. They can then make a free Move Action. The Survivor does not spend extra Actions to perform this free Move Action if Zombies are standing in their Zone."
             }
         ]
     },
@@ -1213,6 +1461,10 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "The Survivor gets a +1 Damage bonus with the specified type of Combat Action (Magic, Melee, or Ranged)."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "The Survivor gets a +1 Damage bonus with the specified type of Action (Melee or Ranged)."
             }
         ]
     },
@@ -1598,6 +1850,10 @@
             {
                 "game": "Zombicide Undead or Alive",
                 "description": "The Survivor adds 1 to the result of each die they roll during an Action of the specified type (Combat, Melee, or Ranged). The maximum result is always 6."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor adds 1 to the result of each die they roll with Actions of the specified type (Combat, Magic, Melee, or Ranged). The maximum result is always 6. REMEMBER: A result of 1 is always a failure."
             }
         ]
     },
@@ -1670,6 +1926,14 @@
             {
                 "game": "Zombicide Undead or Alive",
                 "description": "During the Survivor’s Turn, the Survivor may give 1 free Action to another Survivor to use as they please. This Action is used immediately. Then the Born leader Survivor resumes their Turn."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "During the Survivor’s Turn, the Survivor may give 1 free Action to another Survivor to use as they please. This Action is used immediately, then the Born leader Survivor resumes their Turn."
+            },
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "During the Survivor’s Turn, the Survivor may give 1 free Action to another Survivor to use as they please. This Action is used immediately. Then, the Born leader Survivor resumes their Turn."
             }
         ]
     },
@@ -1728,6 +1992,10 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "The Survivor adds 1 to the result of each die they roll on a Combat Action (Melee, Ranged, or Magic). The maximum result is always 6."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "The Survivor adds 1 to the result of each die he rolls on a Combat Action (Melee or Ranged). The maximum result is always 6."
             }
         ]
     },
@@ -1754,6 +2022,10 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "The Survivor adds 1 to the result of each die they roll on a Melee Action. The maximum result is always 6."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "The Survivor adds 1 to the result of each die he rolls in Melee Combat. The maximum result is always 6."
             }
         ]
     },
@@ -1767,6 +2039,10 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "The Survivor adds 1 to the result of each die they roll on a Ranged Action. The maximum result is always 6."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "The Survivor adds 1 to the result of each die he rolls in Ranged Combat. The maximum result is always 6."
             }
         ]
     },
@@ -1780,6 +2056,10 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "The Survivor’s weapons and Combat spells roll an extra die in Combat (Melee, Ranged, or Magic). Dual weapons and spells each gain a die, for a total of +2 dice per Dual Combat Action."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "The Survivor's weapons roll an extra die in Combat (Melee or Ranged). Dual weapons gain a die each, for a total of +2 dice per Dual Combat Action."
             }
         ]
     },
@@ -1806,6 +2086,10 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "The Survivor’s Melee weapons roll an extra die for Melee Actions. Dual Melee weapons each gain a die, for a total of +2 dice per Dual Melee Action."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "The Survivor's Melee weapons rolls an extra die in Combat. Dual melee weapons gain a die each, for a total of +2 dice per Dual Melee Combat Action."
             }
         ]
     },
@@ -1819,6 +2103,10 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "The Survivor’s Ranged weapons roll an extra die for Ranged Actions. Dual Ranged weapons each gain a die, for a total of +2 dice per Dual Ranged Action."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "The Survivor's Ranged weapons roll an extra die in Combat. Dual ranged weapons gain a die each, for a total of +2 dice per Dual Ranged Combat Action."
             }
         ]
     },
@@ -1832,6 +2120,10 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "The Survivor has 1 extra freeCombat Action. This Action may only be used for Melee,Ranged, or Magic Actions.+1 free Enchantment Action,Zombicide Green Horde,The Survivor has 1 extra free Enchantment Action. This Action may only be used forEnchantment Actions."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "The Survivor has one free extra Combat Action. This Action may only be used for Melee or Ranged Combat."
             }
         ]
     },
@@ -1876,6 +2168,10 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "The Survivor has 1 extra free Move Action. This Action may only be used as a Move Action."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "The Survivor has one free extra Move Action. This Action may only be used as a Move Action."
             }
         ]
     },
@@ -1898,6 +2194,10 @@
             {
                 "game": "Zombicide Black Plague",
                 "description": "The Survivor has one extra free Search Action. This Action may only be used to Search, and the Survivor can still only Search once per Turn."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "The Survivor has one free extra Search Action. This Action may only be used to Search and the Survivor can still only Search once per turn."
             }
         ]
     },
@@ -1911,6 +2211,10 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "When the Survivor spends 1 Action to Move, they can Move 1 or 2 Zones instead of 1.Entering a Zone containing Zombies still ends the Survivor’s Move Action."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "When the Survivor spends one Action to Move, he can move one or two Zones instead of one."
             }
         ]
     },
@@ -2028,6 +2332,10 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "The Survivor ignores all Wounds coming from Zombies having the indicated keyword in its name (such as “Walker”, “Runner”, etc.). “Ironclad: Walker” works with Orc Walkers, for example."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor ignores all Wounds coming from Zombies having the indicated keyword in their name. Ironclad: Walker works with any Walker, for example."
             }
         ]
     },
@@ -2064,6 +2372,10 @@
             {
                 "game": "Zombicide Black Plague",
                 "description": "At the cost of one Action, the Survivor can close an open door in his Zone. Opening or destroying it again later does not trigger a new Zombie Spawn."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "At the cost of one Action, the Survivor can close an open door. Opening it again later does not trigger a new Zombie Spawn."
             }
         ]
     },
@@ -2073,6 +2385,10 @@
             {
                 "game": "Zombicide Black Plague",
                 "description": "Once during each of his Turns, the Survivor can make a huge amount of noise! Until this Survivor’s next Turn, the Zone he used this Skill in is considered to have the highest number of Noise tokens on the entire board. If different Survivors have this Skill, only the last one who used it applies the effects."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "Once per turn, the Survivor can make a huge amount of noise! Until this Survivor's next turn, the Zone he used this Skill in is considered to have the highest number of Noise tokens on the entire map. If different Survivors have this Skill, only the last one who used it applies the effects."
             }
         ]
     },
@@ -2095,6 +2411,10 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "The Survivor may freely choose the targets of all their Magic and Ranged Actions. Misses don’t hit Survivors."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor may freely choose the targets of all their Magic and Ranged Actions. Friendly Fire is ignored."
             }
         ]
     },
@@ -2247,6 +2567,10 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "All Combat spells and Enchantments in the Survivor’s Backpack are considered equipped in Hand. With this Skill, a Survivor could effectively be considered as having several Combat spells and Enchantments cards equipped in Hand. For obvious reasons, they can only use 2 identical Dual Combat Spells at any given time. Choose any combination of 2 before resolving Actions or rolls involving the Survivor."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "All Combat spells and Enchantments in the Survivor’s Backpack are considered equipped in Hand. With this Skill, a Survivor could eﬀectively be considered as having several Combat spells and Enchantment cards equipped in Hand. For obvious reasons, they can only use 2 identical Dual Combat Spells at any given time. Choose any combination of 2 before resolving Actions or rolls involving the Survivor."
             }
         ]
     },
@@ -2260,6 +2584,10 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "The Survivor has 1 extra free Action. This Action may only be used for a Magic Action or an Enchantment Action."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor has 1 free Action that may only be used for a Magic or Enchantment Action."
             }
         ]
     },
@@ -2269,6 +2597,10 @@
             {
                 "game": "Zombicide Black Plague",
                 "description": "When the Survivor is equipped with Dual Combat spells or Ranged weapons, he can aim at different Zones with each spell/weapon in the same Action."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "When the Survivor is equipped with Dual Ranged weapons, he can aim at targets in different Zones with each weapon in the same Action."
             }
         ]
     },
@@ -2296,6 +2628,10 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "This Skill can be used once per Turn. The Survivor gets a free Search Action in the Zone if they have eliminated a Zombie (even in a Street Zone or Vault,Zombicide Green Horde,see Zombicide: Black Plague) in the same Game Round. This Action may only be used to Search, and the Survivor can still only Search once per Turn."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor draws an Equipment card whenever the last Zombie standing in their Zone is eliminated (by the Survivor themselves, another Survivor, or any game eﬀect). This Skill works in any Zone, even a street Zone, and can be used multiple times in the same Turn. This is NOT considered a Search Action."
             }
         ]
     },
@@ -2305,6 +2641,10 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "The Survivor can make Armor rolls with a 5+ Armor value, even when they are not wearing armor on their Body slot. When wearing armor, the Survivor adds 1 to the result of each die they roll for Armor rolls. The maximum result is always 6."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor can make Armor rolls with a 5+Armor value, even when they are not wearing armor in their Body slot. When wearing armor, the Survivor adds 1 to the result of each die they roll for Armor rolls. The maximum result is always 6 and 1 is always a failure."
             }
         ]
     },
@@ -2314,6 +2654,10 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "When resolving a Ranged Action, the Survivor may substitute the Dice number of the Ranged weapon(s) they use with the number of Zombies standing in the targeted Zone. Skills affecting the dice value, like +1 die: Ranged, still apply."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "When resolving a Ranged Action, the Survivor may substitute the Dice number of the Ranged weapon(s) they use with the number of Zombies standing in the targeted Zone. Skills aﬀecting the dice value, like +1 Die: Ranged, still apply."
             }
         ]
     },
@@ -2323,6 +2667,10 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "The Survivor can’t get hit by Survivors’ Magic and Ranged Actions (Siege Actions still apply). Ignore them when casting a Combat spell or shooting in the Zone they stand in. Game effects that kill everything in the targetedZone, like Dragon Fire, still kill them, though."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor can’t get hit by Friendly Fire (Cauldron and Dragon Fire still apply). Ignore them when casting a Combat spell or shooting at the Zone they’re standing in."
             }
         ]
     },
@@ -2332,6 +2680,10 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "When resolving a Magic Action, the Survivor may substitute the Dice number of the Combat spell(s) they use with the number of Zombies standing in the targeted Zone. Skills affecting the dice value, like +1 die: Magic, still apply."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "When resolving a Magic Action, the Survivor may substitute the Dice number of the Combat spell(s) they use with the number of Zombies standing in the targeted Zone. Skills aﬀecting the dice value, like +1 Die: Magic, still apply."
             }
         ]
     },
@@ -2341,6 +2693,10 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "When a Survivor performs a Search Action and draws an Equipment card with the Dual symbol, they can immediately take a second card of the same type from the Equipment deck. Shuffle the deck afterward."
+            },
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "When a Survivor performs a Search Action and draws a weapon card with the Dual symbol, he can immediately take a second card of the same type from the Equipment deck. Shuffle the deck afterward."
             }
         ]
     },
@@ -2350,6 +2706,10 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "The Survivor can perform Ranged and Magic Actions in their own Zone, no matter the minimum Range. When resolving a Magic or Ranged Action at Range 0, the Survivor freely chooses the targets and can kill any type of Zombies. Their Combat spells and Ranged weapons still need to inflict enough Damage to kill the targets. Misses don’t hit Survivors."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor can perform Magic and Ranged Actions in their own Zone, no matter the minimum Range. When resolving a Magic or Ranged Action at Range 0, the Survivor freely chooses the targets and can eliminate any type of Zombies. Their Combat spells and Ranged weapons still need to inflict enough Damage to eliminate the targets. Friendly Fire is ignored."
             }
         ]
     },
@@ -2358,6 +2718,10 @@
         "versions": [
             {
                 "game": "Zombicide Green Horde",
+                "description": "Consider the Damage value of Melee weapons used by the Survivor to be 3."
+            },
+            {
+                "game": "Zombicide White Death",
                 "description": "Consider the Damage value of Melee weapons used by the Survivor to be 3."
             }
         ]
@@ -2368,6 +2732,14 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "The Survivor can ignore other Survivors of their choosing when missing with a Magic or Ranged Action. The Skill does not apply to game effects killing everything in the targeted Zone (such as a Dragon Fire, for example)."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor can ignore other Survivors when missing with a Magic or Ranged Action. This Skill does not apply to game eﬀects killing everything in the targeted Zone (such as Cauldrons or Dragon Fire, for example)."
+            },
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "The Survivor can ignore other Survivors of their choosing when missing with a Ranged Action. This Skill does not apply to game eﬀects killing everything in the targeted Zone (such as Explosives, for example)."
             }
         ]
     },
@@ -2377,6 +2749,10 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "The Survivor can use this Skill as often as they please, during each of their Turns. Spend 1 Action and discard an Equipment card from your inventory: draw a new Equipment card. The Survivor can reorganize their Inventory for free. This is not a Search Action. Aaahh!!\" cards are resolved as usual.\""
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor can use this Skill as often as they please during each of their Turns. They spend an Action and discard an Equipment card from their Inventory to draw a new Equipment card. This is not a Search Action. Aaahh!! cards are resolved as usual.\"\""
             }
         ]
     },
@@ -2395,6 +2771,10 @@
             {
                 "game": "Zombicide Green Horde",
                 "description": "The Survivor plays an extra Turn each time an Extra Activation card is drawn from the Zombie pile. They play before the extra-activated Zombies. If several Survivors benefit from this Skill at the same time, choose their Turn order."
+            },
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor plays an extra Turn each time a Zombie Siege card is drawn from the Zombie pile. They play before the Zombies. If several Survivors benefit from this Skill at the same time, players choose their Turn order."
             }
         ]
     },
@@ -2503,6 +2883,363 @@
             {
                 "game": "Zombicide Dark Side",
                 "description": "The Survivor ignores all Damage coming from Xenos having the indicated keyword in its name. Ironclad: Worker works with any Workers, for example."
+            }
+        ]
+    },
+    {
+        "name": "+1 Die: [Action]",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "Each of the Survivor's weapons rolls an extra die with Actions of thespecified type (Combat, Magic, Melee, or Ranged). Dual weapons each gain a die, for a total of +2 dice per Dual Action of the specified type."
+            },
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "Each of the Survivor’s weapons rolls an extra die with Actions of the specified type (Combat, Melee, or Ranged)."
+            }
+        ]
+    },
+    {
+        "name": "+1 Free [Action type] Action",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor has 1 extra free Action of the specified type (Combat, Enchantment, Guard, Magic, Melee, Move, Ranged, or Search). This Action may only be used to perform an Action of the specified type. NOTE: A Survivor may only perform 1 Guard and 1 Search Action per Turn. Remember: Magic, Melee, and Ranged Actions are Combat Actions."
+            },
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "The Survivor has 1 extra free Action of the specified type (Combat, Melee, Move, Ranged, or Search). This Action may only be used to perform an Action of the specified type."
+            }
+        ]
+    },
+    {
+        "name": "+1 Max Range",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "The maximum Range of Ranged weapons and Combat Spells the Survivor uses is increased by 1."
+            }
+        ]
+    },
+    {
+        "name": "Brother in Arms: [game eﬀect]",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor can use this Skill whenever they are standing in the same Zone as at least 1 other Survivor. As long as Brother in Arms is active, each Survivor in the Zone (including the one with this Skill) benefits from the indicated Skill or game eﬀect. Guards do not benefit from this Skill. NOTE: Brother in Arms may be shortened to B.I.A."
+            }
+        ]
+    },
+    {
+        "name": "Can Search More Than Once",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor can Search multiple times per Turn, spending 1 Action for each Search Action."
+            },
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "The Survivor can Search multiple times per Turn, spending 1 Action for each Search Action."
+            }
+        ]
+    },
+    {
+        "name": "Close-Quarter Master",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor can Polearm Melee Actions in their own Zone, no matter the minimum Range."
+            }
+        ]
+    },
+    {
+        "name": "Combat Reflexes",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "Whenever any Zombies spawn within Range 0-1, the Survivor may immediately perform a free Combat Action against them. This Action may eliminate more Zombies than have spawned. Ranged Actions must still be aimed at the Zone where the Zombies spawned. The Survivor may use this Skill once per Zombie card drawn."
+            },
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "Whenever any Zombies spawn within Range 0-1, the Survivor may immediately perform a free Combat Action against them. This Action may eliminate more Zombies than have just been spawned. Ranged Actions must be aimed at the Zone where the Zombies spawned. The Survivor may use this Skill once per Zombie card drawn."
+            }
+        ]
+    },
+    {
+        "name": "Corruption Searcher",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor can perform Search Actions in Corruption Zones."
+            }
+        ]
+    },
+    {
+        "name": "Corruption Walker",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "Once per Turn, the Survivor may perform 1 free Move Action when standing in a Corruption Zone."
+            }
+        ]
+    },
+    {
+        "name": "Damage 2: [Action type]",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "Weapons of the indicated type (Combat, Magic, Melee, or Ranged) used by the Survivor and having a Damage value of 1 are considered as having a Damage value of 2."
+            }
+        ]
+    },
+    {
+        "name": "Double Casting",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "Every time the Survivor performs an Enchantment Action, they can select an extra target for the same Enchantment, for free. First, designate both targets.Then, resolve one after the other, in any order."
+            }
+        ]
+    },
+    {
+        "name": "Dual Expert",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor has a free Combat Action as long as they have Dual weapons equipped. This Action can be only used with the Dual equipped weapons."
+            }
+        ]
+    },
+    {
+        "name": "Free Reload",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor reloads reloadable weapons (Triple Crossbow, for example) for free."
+            }
+        ]
+    },
+    {
+        "name": "Freeze: [Action type]",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "Whenever the Survivor performs an Action of the indicated type (Combat, Magic, Melee, or Ranged), place a Freeze token (P. 33) in the targeted Zone (whether the Action succeeds or not)."
+            }
+        ]
+    },
+    {
+        "name": "Improvised Weapon: Melee",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor can use this Skill for free once during each of their Turns. They perform a free Melee Action using these characteristics. Melee modifiers (other Skills, for example) apply."
+            }
+        ]
+    },
+    {
+        "name": "Improvised Weapon: Ranged",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor can use this Skill for free once during each of their Turns. They perform a free Ranged Action using these characteristics. Ranged modifiers (other Skills, for example) apply."
+            }
+        ]
+    },
+    {
+        "name": "Guards: [Skill]",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "This Skill is used whenever the Survivor performs a Guard Action. The designated Guards benefit from the specified Skill for the corresponding Action."
+            }
+        ]
+    },
+    {
+        "name": "Guards: Evade",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "This Skill may be used whenever the Survivor performs a Move Guard Action. The Guards ignore Zombies in their starting Zone when performing the ensuing Move Action."
+            }
+        ]
+    },
+    {
+        "name": "Guards: Push",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "This Skill may be used whenever the Survivor performs a Guard Action. Instead of resolving the chosen Action, select a Zone at Range 1 from the designated Guard(s) within Line of Sight of them. All Zombies standing in the designated Guard(s)’ Zone are pushed to the selected Zone. This is not a Move. NOTE: Zombies can be pushed from Battlement Walkways to street Zones that way!"
+            }
+        ]
+    },
+    {
+        "name": "Matching Set",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "When the Survivor performs a Search Action and draws an Equipment card with the Dual symbol, they can immediately take a second card of the same type from the Equipment deck. Shuﬄe the deck afterward."
+            }
+        ]
+    },
+    {
+        "name": "Range 2+: [Skill]",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor benefits of the indicated Skill when performing a Ranged Action at Range 2 or more."
+            }
+        ]
+    },
+    {
+        "name": "Reach",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor may perform Melee Actions at Range 0-1."
+            }
+        ]
+    },
+    {
+        "name": "Roll 6: +1 Die [Action]",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "An additional die can be rolled for each 6 rolled during an Action of the specified type (Combat, Magic, Melee, or Ranged). Keep on rolling additional dice as long as results of 6 keep happening. Game eﬀects that allow re-rolls must be used before rolling any additional dice for this Skill."
+            },
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "An additional die can be rolled for each 6 rolled on an Action of the specified type (Combat, Melee, or Ranged). Keep on rolling additional dice as long as the player keeps getting 6. Game eﬀects that allow re-rolls must be used before rolling any additional dice for this Skill."
+            }
+        ]
+    },
+    {
+        "name": "Ruin Searcher",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor can perform Search Actions in Ruin Zones."
+            }
+        ]
+    },
+    {
+        "name": "Ruin Sight",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor considers Ruin Zones as street Zone when tracing Lines of Sight."
+            }
+        ]
+    },
+    {
+        "name": "Safe Search",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "This Skill may be used once per Turn, right after the Survivor gets a Aaahh!! card while Searching. The Aaahh!! card is discarded without eﬀect and another card is drawn."
+            }
+        ]
+    },
+    {
+        "name": "Search: 2 Cards",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "Draw 2 cards when Searching with the Survivor."
+            },
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "Draw 2 cards when Searching with the Survivor."
+            }
+        ]
+    },
+    {
+        "name": "Vault Picker",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor can pick up Vault Weapon cards dropped by Abominations and Necromancers up to 1 Zone away and within Line of Sight. An open path between both Zones is required."
+            }
+        ]
+    },
+    {
+        "name": "Wall Climber",
+        "versions": [
+            {
+                "game": "Zombicide White Death",
+                "description": "The Survivor can enter and leave Battlement Walkways without using Stairs or Rope Ladders."
+            }
+        ]
+    },
+    {
+        "name": "+1 Zone Per Move",
+        "versions": [
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "When the Survivor spends 1 Action to Move, they can Move 1 or 2 Zones instead of 1. Entering a Zone containing Zombies still ends the Survivor’s Move Action."
+            }
+        ]
+    },
+    {
+        "name": "Explosive Master",
+        "versions": [
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "The Survivor has 1 extra free Action and rolls an extra die with Actions using any kind of Explosives (see p.26)."
+            }
+        ]
+    },
+    {
+        "name": "Hunter: [Zombie Type]",
+        "versions": [
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "This Skill can be used when the Survivor assigns their hits while resolving a Combat Action. If any 1 Zombie in that Zone is eliminated, the Survivor may eliminate 1 extra Zombie of the specified type in the same Zone. The Survivor gains the Adrenaline for the additional Zombie."
+            }
+        ]
+    },
+    {
+        "name": "Silent Killer",
+        "versions": [
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "Removing Sleeper tokens costs only 1 Action."
+            }
+        ]
+    },
+    {
+        "name": "To the Rescue",
+        "versions": [
+            {
+                "game": "Zombicide Army of the Dead",
+                "description": "At the end of the Zombie Phase, the Survivor gains 1free Action if at least 1 Survivor suﬀered any Wounds this Round."
+            }
+        ]
+    },
+    {
+        "name": "1 re-roll per turn",
+        "versions": [
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "Once per turn, you can re-roll all the dice related to the resolution of an Action made by the Survivor. The new result takes the place of the previous one. This Skill stacks with the effects of Equipment that allow re-rolls."
+            }
+        ]
+    },
+    {
+        "name": "Is that all you've got?",
+        "versions": [
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "You can use this Skill any time the Survivor is about to get Wounded cards. Discard one Equipment card in your Survivor's inventory for each Wound he's about to receive. Negate a Wounded card per discarded Equipment card."
+            }
+        ]
+    },
+    {
+        "name": "Ninja",
+        "versions": [
+            {
+                "game": "Zombicide 1st Edition",
+                "description": "The Survivor makes no Noise. At all. His miniature does not count as a Noise token, and his use of Equipment or weapons produces no Noise tokens either! The Survivor may choose not to use this Skill at any time, if he wishes to be noisy."
             }
         ]
     }
